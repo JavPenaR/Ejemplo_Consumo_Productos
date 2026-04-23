@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: usuariodocker/nombre-imagen:latest
+          tags: javpenar/venta:latest
